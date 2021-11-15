@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
+## Project Structure
+Media
+The media directory is used to store supporting files for the application. Things like requirement documentation, text outlines, etc. This is the junk drawer for the project.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
